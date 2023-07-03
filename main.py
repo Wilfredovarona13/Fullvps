@@ -14,7 +14,7 @@ print('Tunnel Connecting...')
 tunnel = ngrok.connect(PORT_)
 print('Tunnel Conected!')
 
-BOT_TOKEN = '6205764515:AAFozZNDsK8MXe9GnDImRy3-Ntvbo__0gu0'
+BOT_TOKEN = '6205764515:6367059896:AAFGJ02dSZqLCBqZWNOTVfSpPMiUbiIO074'
 API_ID = '18638524'
 API_HASH = '7a72dc347e617f7a8ba63a96fdb1865d'
 HOST_ = 'https://fiercely-lovely-lily-ship-dev.wayscript.cloud/'
