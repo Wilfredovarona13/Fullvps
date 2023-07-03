@@ -16,7 +16,7 @@ print('Tunnel Conected!')
 
 BOT_TOKEN = '6205764515:AAFozZNDsK8MXe9GnDImRy3-Ntvbo__0gu0'
 API_ID = '18638524'
-API_HASH = 'b7b026ce9d1d36400c02dc21d8df53a3'
+API_HASH = '7a72dc347e617f7a8ba63a96fdb1865d'
 HOST_ = 'https://fiercely-lovely-lily-ship-dev.wayscript.cloud/'
 HOST_ = tunnel.public_url + '/'
 
